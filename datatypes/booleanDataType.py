@@ -23,3 +23,7 @@ print(True <= True)
 print(True == True)
 print(True != True)
 print(True != False)
+
+
+print(True + 10)
+print(False + 10)
