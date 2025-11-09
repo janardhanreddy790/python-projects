@@ -1,0 +1,6 @@
+print("1.Comments")
+print("2.Keywords or reserved words")
+print("3.Identifiers")
+print("4.Variables")
+print("5.Multiple Assignments")
+print("6.Intendation")
