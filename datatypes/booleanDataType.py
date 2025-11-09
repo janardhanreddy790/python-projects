@@ -8,3 +8,18 @@ print(z)
 
 # True indicates 1
 # False indicates 0
+
+
+print(True + True)
+print(True - True)
+print(True * True)
+print(True / True)
+print(True // True)
+print(True % True)
+print(True ** True)
+print(True >= True)
+print(True < True)
+print(True <= True)
+print(True == True)
+print(True != True)
+print(True != False)
